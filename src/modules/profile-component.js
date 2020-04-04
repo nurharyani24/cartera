@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Layout, Row, Col, Modal } from 'antd';
 import Navbar from '../common/layout/navbar-home';
 import '../assets/css/profile.css';
-import ButtonHome from '../common/component/button-profile';
+import ButtonProfile from '../common/component/button-profile';
 
 const { Content } = Layout;
 
@@ -34,15 +34,14 @@ class ProfileComponent extends Component {
                             <Col span={24}>
                                 <div className="button-section-1-container">
                                 <ButtonProfile
-                                    text="Linked"
+                                    text="Linked In"
                                     className="button-profile"
-                                    onClick="https://www.linkedin.com/in/nurharyani/"
-                                    
+                                    href="https://www.linkedin.com/in/nurharyani/"
                                     />
                                 <ButtonProfile
-                                    className="button-home"
+                                    className="button-profile"
                                     text="Dribbble"
-                                    onClick="https://dribbble.com/nurharyani"
+                                    href="https://dribbble.com/nurharyani"
                                     background="white"
                                     textColor="#f19292"
                                     border="1px solid #f19292"

@@ -28,7 +28,7 @@ function ButtonProfile({
                 marginTop: marginTop,
                 marginBottom: marginBottom,
             }}
-            onClick={onClick}>
+            href={href}>
         {text}
         </Button>
     );
