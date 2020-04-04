@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/cartera/static/css/main.d058078d.chunk.css",
+    "main.js": "/cartera/static/js/main.caf123cb.chunk.js",
+    "main.js.map": "/cartera/static/js/main.caf123cb.chunk.js.map",
+    "runtime-main.js": "/cartera/static/js/runtime-main.55817c91.js",
+    "runtime-main.js.map": "/cartera/static/js/runtime-main.55817c91.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/cartera/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.ecd07669.chunk.js": "/cartera/static/js/2.ecd07669.chunk.js",
+    "static/js/2.ecd07669.chunk.js.map": "/cartera/static/js/2.ecd07669.chunk.js.map",
+    "index.html": "/cartera/index.html",
+    "precache-manifest.831680ec5bad428f2705d8133ee0a75b.js": "/cartera/precache-manifest.831680ec5bad428f2705d8133ee0a75b.js",
+    "service-worker.js": "/cartera/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/cartera/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.d058078d.chunk.css.map": "/cartera/static/css/main.d058078d.chunk.css.map",
+    "static/js/2.ecd07669.chunk.js.LICENSE.txt": "/cartera/static/js/2.ecd07669.chunk.js.LICENSE.txt",
+    "static/media/anin.jpeg": "/cartera/static/media/anin.e6d6062e.jpeg",
+    "static/media/bey.jpg": "/cartera/static/media/bey.d3e50ff8.jpg",
+    "static/media/clara.jpg": "/cartera/static/media/clara.9d781f8d.jpg",
+    "static/media/iqram.jpg": "/cartera/static/media/iqram.2f04af15.jpg",
+    "static/media/nur.jpg": "/cartera/static/media/nur.abc6a360.jpg",
+    "static/media/point1.png": "/cartera/static/media/point1.67bf953a.png",
+    "static/media/point2.png": "/cartera/static/media/point2.b1140f50.png",
+    "static/media/point3.png": "/cartera/static/media/point3.9e09fce4.png",
+    "static/media/portofolio1.jpg": "/cartera/static/media/portofolio1.62285a74.jpg",
+    "static/media/portofolio2.jpg": "/cartera/static/media/portofolio2.ee2de05f.jpg",
+    "static/media/portofolio3.jpg": "/cartera/static/media/portofolio3.69095928.jpg",
+    "static/media/portofolio4.jpg": "/cartera/static/media/portofolio4.6d7a9f79.jpg",
+    "static/media/portofolio5.jpg": "/cartera/static/media/portofolio5.17c3316e.jpg",
+    "static/media/portofolio6.jpg": "/cartera/static/media/portofolio6.429f82bb.jpg",
+    "static/media/profile.png": "/cartera/static/media/profile.c483624d.png",
+    "static/media/ronggo.jpg": "/cartera/static/media/ronggo.20bcf90d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55817c91.js",
+    "static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.ecd07669.chunk.js",
+    "static/css/main.d058078d.chunk.css",
+    "static/js/main.caf123cb.chunk.js"
+  ]
+}
