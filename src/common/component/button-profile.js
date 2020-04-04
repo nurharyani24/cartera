@@ -8,7 +8,7 @@ function ButtonProfile({
     textColor = "white", 
     border = 'none',
     margin = '0px', marginLeft, marginRight, marginTop, marginBottom,
-    className, onClick
+    className
 })
 
 {
@@ -28,7 +28,6 @@ function ButtonProfile({
                 marginTop: marginTop,
                 marginBottom: marginBottom,
             }}
-            href={href}
             onClick={onClick}>
         {text}
         </Button>

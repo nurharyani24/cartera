@@ -34,15 +34,15 @@ class ProfileComponent extends Component {
                             <Col span={24}>
                                 <div className="button-section-1-container">
                                 <ButtonProfile
-                                    text="Linked In"
+                                    text="Linked"
                                     className="button-profile"
-                                    href="https://www.linkedin.com/in/nurharyani/"
+                                    onClick="https://www.linkedin.com/in/nurharyani/"
                                     
                                     />
                                 <ButtonProfile
                                     className="button-home"
                                     text="Dribbble"
-                                    href="https://dribbble.com/nurharyani"
+                                    onClick="https://dribbble.com/nurharyani"
                                     background="white"
                                     textColor="#f19292"
                                     border="1px solid #f19292"
