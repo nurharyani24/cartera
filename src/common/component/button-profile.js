@@ -1,8 +1,8 @@
 import React from 'react';
 import { Button } from 'antd';
 
-function ButtonHome({
-    type, text, disabled, 
+function ButtonProfile({
+    type, text, disabled, href,
     borderRadius = 25,
     background = '#f19292', 
     textColor = "white", 
@@ -28,10 +28,11 @@ function ButtonHome({
                 marginTop: marginTop,
                 marginBottom: marginBottom,
             }}
+            href={href}
             onClick={onClick}>
         {text}
         </Button>
     );
 }
 
-export default ButtonHome;
+export default ButtonProfile;

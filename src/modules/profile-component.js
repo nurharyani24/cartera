@@ -33,12 +33,13 @@ class ProfileComponent extends Component {
                             </Col>
                             <Col span={24}>
                                 <div className="button-section-1-container">
-                                <ButtonHome
+                                <ButtonProfile
                                     text="Linked In"
-                                    className='button-home'
+                                    className="button-profile"
                                     href="https://www.linkedin.com/in/nurharyani/"
+                                    
                                     />
-                                <ButtonHome
+                                <ButtonProfile
                                     className="button-home"
                                     text="Dribbble"
                                     href="https://dribbble.com/nurharyani"
