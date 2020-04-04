@@ -1,0 +1,40 @@
+@import '~antd/dist/antd.css';
+
+.section-container {
+    margin: 0 80px;
+    margin-bottom: 100px;
+}
+
+.full-container {
+    min-height: 100vh;
+}
+
+.image-big-container {
+    margin-top: 60px;
+}
+
+.title-container {
+    max-width: 480px;
+    margin-top: 150px;
+    margin-bottom: 10px;
+}
+
+.desc-container {
+    max-width: 600px;
+    margin-bottom: 20px;
+}
+
+.button-section-1-container {
+    max-width: 400px;
+}
+
+.button-home {
+    font-size: 14px;
+    min-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
