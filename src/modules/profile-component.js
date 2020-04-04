@@ -9,7 +9,6 @@ const { Content } = Layout;
 class ProfileComponent extends Component {
     render(){
         const img_profile = require('./../assets/images/profile.png');
-        const {initialData,showModal,handleOk,handleCancel} = this.props;
 
         return(
             <Layout className="home-container">
@@ -37,10 +36,12 @@ class ProfileComponent extends Component {
                                 <ButtonHome
                                     text="Linked In"
                                     className='button-home'
-                                    onClick = {showModal}/>
+                                    href="https://www.linkedin.com/in/nurharyani/"
+                                    />
                                 <ButtonHome
                                     className="button-home"
                                     text="Dribbble"
+                                    href="https://dribbble.com/nurharyani"
                                     background="white"
                                     textColor="#f19292"
                                     border="1px solid #f19292"
